@@ -1,2 +1,2 @@
 # firstrep
-My test repo
+My test repository
